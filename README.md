@@ -21,6 +21,8 @@
 
 - 📫 How to reach me **rohith.sml94@gmail.com | rohith@hamon.in**
 
+- Buy me a Beer **[https://www.buymeacoffee.com/rohithsml](https://www.buymeacoffee.com/rohithsml)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/rohithsml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rohithsml" height="30" width="40" /></a>
